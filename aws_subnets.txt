@@ -1,0 +1,21 @@
+1.AWS has a vpc networks
+2.vpc is subdivided into subnets
+3.subnets can be either public or private based on routetables routes such as 0.0.0.0/0 => IGW or 0.0.0.0/0 => NAT gateway 
+respectively.
+4.Create a instance and keep in one of the subnets.
+
+
+
+
+
+
+
+
+
+
+
+
+1. git init
+2. git status 
+3. git add <filename? or git add . or *
+4. git commit
